@@ -1,5 +1,5 @@
-> NOTE: you may need https://facebook.github.io/watchman/docs/install.html
-> If: Error: Error watching file for changes: EMFILE
+> NOTE: you may need https://facebook.github.io/watchman/docs/install.html.  
+> If you find: Error watching file for changes: EMFILE
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
